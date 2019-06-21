@@ -1,0 +1,2 @@
+This is the original text, before cleaning the text
+This is the clean text
